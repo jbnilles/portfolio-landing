@@ -17,7 +17,7 @@ _This is a landing page for my portfolio. It was created using HTML, CSS and the
 
 ## Github Pages Link
 
-_https://jbnilles.github.io/portfolio-landing/ _
+https://jbnilles.github.io/portfolio-landing/ 
 
 ## Technologies Used
 
