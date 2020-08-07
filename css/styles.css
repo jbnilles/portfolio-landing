@@ -31,7 +31,7 @@ body{
 }
 .card-title{
   font-size: xx-large;
-  color: #E85A4F
+  color: #E85A4F;
 }
 .card-text img{
 float: right;
@@ -48,4 +48,7 @@ width: 300px;
   position: relative;
   top: -100px;
   visibility: hidden;
+}
+.subtitle{
+  color: #E85A4F;
 }
