@@ -45,3 +45,9 @@ body{
 .noDot{
   list-style: none;
 }
+#projects{
+  display: block;
+  position: relative;
+  top: -100px;
+  visibility: hidden;
+}
