@@ -1,0 +1,15 @@
+.card-text img{
+float: right;
+width: 300px;
+}
+.header{
+  box-sizing: border-box;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.row{
+  box-sizing: border-box;
+}
+.container{
+  background-color: aqua;
+}
