@@ -1,19 +1,6 @@
 body{
   background-color: #EAE7DC;
 }
-#intro{
-  box-sizing: border-box;
-  padding-bottom: 200px;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  color: #8E8D8A;
-  background-color: #EAE7DC;
-  border-width: 0px;
-  text-align: center;
-
-}
-#intro .card-header{
-  background-color: #D8C3A5;
-}
 #topNav{
   border-width: 0px;
   padding: 0px;
@@ -43,18 +30,22 @@ width: 300px;
 .noDot{
   list-style: none;
 }
-#projects{
+.anchor{
   display: block;
   position: relative;
   top: -100px;
   visibility: hidden;
 }
+
 .subtitle{
   color: #E85A4F;
 }
 .jumbotron{
   text-align: center;
   background-color:#EAE7DC;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding-top: 200px;
+  padding-bottom: 200px;
 }
 .jumbotron h1{
   color: #E85A4F;
@@ -63,3 +54,15 @@ width: 300px;
   color: #8E8D8A;
 
 }
+#portNav{
+  float: left;
+  width: 66%;
+}
+#extNav{
+  float: right;
+  width:33%;
+}
+
+  
+ 
+
