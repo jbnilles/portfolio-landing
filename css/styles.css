@@ -52,3 +52,14 @@ width: 300px;
 .subtitle{
   color: #E85A4F;
 }
+.jumbotron{
+  text-align: center;
+  background-color:#EAE7DC;
+}
+.jumbotron h1{
+  color: #E85A4F;
+}
+.jumbotron p{
+  color: #8E8D8A;
+
+}
