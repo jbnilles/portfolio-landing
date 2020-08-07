@@ -1,6 +1,6 @@
-.card-text img{
-float: right;
-width: 300px;
+body{
+  background-color: #EAE7DC;
+  
 }
 #intro{
   box-sizing: border-box;
@@ -17,27 +17,26 @@ width: 300px;
 }
 #topNav{
   border-width: 0px;
-  padding: 0%;
+  padding: 0px;
   background-color:#D8C3A5; ;
 }
-
 .row{
   box-sizing: border-box;
   padding-bottom: 50px;
-}
-body{
-  background-color: #EAE7DC;
-  
-}
-.card-title{
-  font-size: xx-large;
-  color: #E85A4F
 }
 .card{
   background-color: #D8C3A5;
   box-sizing: border-box;
   padding: 10px;
 
+}
+.card-title{
+  font-size: xx-large;
+  color: #E85A4F
+}
+.card-text img{
+float: right;
+width: 300px;
 }
 .schoolName{
   font-style: italic;
